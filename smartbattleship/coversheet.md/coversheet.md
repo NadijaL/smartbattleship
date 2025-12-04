@@ -35,10 +35,10 @@ if (memory.mode == SEARCH && memory.fireDir == EAST)
 Using this as a base, I was able to figure out how to impliment it in the rest of the cases in my code. At first, I also had my if else statement state what the mode and direction was, but then I realized that I only really needed the direction, since the code was all the same for each mode the computer was in. I will admit, since Dr. Fang gave us permission to use her code, I gave her code to three other students who were struggling. I wanted to mention this in case they submitted the code and it appeared that they were cheating, since there were only 4 of us who went to lab and recieved the code. I probably should have asked if it was alright if I gave them the code, but by the time i realized this, there wasn't any time to email and ask permission. I hope I did not violate any of the guidelines in the syllabus, I promise I was using my best judgement. I only gave them Dr. Fang's code, so they also had to figure out the other cases on their own, though one asked for further help to I gently guided them to the right answer without actually giving it away. 
 My boyfriend, a lab assistant, and a friend's dad also helped me fact check my code to make sure my logic was sound. So, other than the portion that Dr. Fang provided, the entirety of the program was done by me. I only ever asked for help in varifying if my logic made sense, which it did.
 
-AI Use:
+AI Use: Miraculously, I did not need to use AI because of the generous help from Dr. Fang, my boyrfriend, the lab assistant, and my friend's dad.
 
-Summary/Conclusion:
+Summary/Conclusion: This was definitely a challenging project, but I am very happy with how it turned out. The lab assistant helped me when my program was skipping positions when trying to destroy a ship, and with a starting point for what to look for in my addition statement in smartMove, I was able to fix the program and get it to work. It was a very triumphant moment when it could play fully, so while I am very exhausted from coding this smart battleship, I am also very satisfied.
 
-Lessons Learned:
+Lessons Learned: I learned a lot about how to think logically and go line by line in code, and also about how a computer sees code. This project helped me to better understand what the computer sees, and how it can only see what I tell it. This helped me understand how to code for edge cases and all possible scenarios, which will be extremely useful for any future projects I do. I also learned patience in helping others struggle through similar problems that I was facing, and I'm glad I could help them, in any small way.
 
 Time Spent: I spent somewhere between 20 to 25 hours on this project over the past few days.
