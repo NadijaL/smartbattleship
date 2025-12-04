@@ -15,6 +15,26 @@ Testing: I probably did over one hundred tests over the past few days while codi
 
 Outside Help: Dr. Fang was an immense help for this project. She provided some code for smartMove, and gave us permission to use this code in our projects, explaining that several students in the past have struggled with that portion and she wanted to help us have a starting point. The code she gave looked like this:
 
+if (memory.mode == SEARCH && memory.fireDir == EAST)
+{
+  row = memory.hitRow;
+  col = memoyr. hitCol;
+
+  string move = "";
+
+  move = move + (char)('A' + row);
+  if ()
+  {
+    move = move + (char)('1' + col);
+  }
+  else
+  {
+    move = move + "10";
+  }
+}
+Using this as a base, I was able to figure out how to impliment it in the rest of the cases in my code. At first, I also had my if else statement state what the mode and direction was, but then I realized that I only really needed the direction, since the code was all the same for each mode the computer was in. I will admit, since Dr. Fang gave us permission to use her code, I gave her code to three other students who were struggling. I wanted to mention this in case they submitted the code and it appeared that they were cheating, since there were only 4 of us who went to lab and recieved the code. I probably should have asked if it was alright if I gave them the code, but by the time i realized this, there wasn't any time to email and ask permission. I hope I did not violate any of the guidelines in the syllabus, I promise I was using my best judgement. I only gave them Dr. Fang's code, so they also had to figure out the other cases on their own, though one asked for further help to I gently guided them to the right answer without actually giving it away. 
+My boyfriend, a lab assistant, and a friend's dad also helped me fact check my code to make sure my logic was sound. So, other than the portion that Dr. Fang provided, the entirety of the program was done by me. I only ever asked for help in varifying if my logic made sense, which it did.
+
 AI Use:
 
 Summary/Conclusion:
